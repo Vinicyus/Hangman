@@ -1,6 +1,8 @@
 # Hangman
+
 Hangman made with pygame.
 
+![Sample](https://github.com/Vinicyus/Hangman/blob/master/sample.PNG)
 
 ## Getting Started
 
