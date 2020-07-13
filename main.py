@@ -9,6 +9,8 @@ pygame.init()
 WIDTH, HEIGHT = 800, 500
 win = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Hangman Game!")
+programIcon = pygame.image.load("hangman.png")
+pygame.display.set_icon(programIcon)
 
 #button
 RADIUS = 20
